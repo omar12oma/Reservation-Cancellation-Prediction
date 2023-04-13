@@ -1,8 +1,0 @@
-number of all nights
-
-arrival_date: Date of the month   to be cat
-arrival_month: Month of arrival date to be cat.
-
-LogisticRegression()
-RandomForestClassifier
-KNeighborsClassifier
